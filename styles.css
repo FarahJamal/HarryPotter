@@ -1,0 +1,211 @@
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+img{
+ max-width:100%;
+}
+body {
+  margin: 0 auto;}
+.myclass{
+ width:100%;
+ height:100vh; 
+ background-size:cover;
+ background-position:center; 
+ background-image: url("https://simdif-edt.simple-different.com/sd_userfiles/395461/444693/th/sd_5f1e6b3bc25dc.png?nocache=1595829082");
+ background-attachment: fixed;
+ 
+}
+@font-face {
+
+   font-family: 'harry_pregular';
+
+
+    src: url("/storage/emulated/0/Font test/HARRYP__.TTF");
+
+    font-weight: normal;
+
+    font-style: normal;
+
+}
+h1{
+    text-align:center;
+    text-shadow:2px 3px 3.5px grey;
+    font-family: 'harry_pregular', cursive;
+    color:brown;
+ 
+}
+.click{
+    font-family: 'Oleo Script', cursive;
+}
+h3{
+    text-align:center ;
+    text-shadow:2px 3px 4px grey;
+    color:red;
+}
+h4{
+    text-align:center ;
+    text-shadow:2px 3px 4px grey;
+    color:red;
+}
+.myclass1{
+ width:100%;
+ height:100vh; 
+ background-size:cover;
+ background-position:center; 
+ background-image: url("https://i.gifer.com/61s.gif");
+ background-attachment: fixed;
+ font-family: 'Oleo Script', cursive;
+ color:rgb(204, 255, 252);
+ text-shadow:2px 3px 4px grey;
+}
+.heading {
+background-color:none ;
+/*width:400px;
+height:100px; */
+box-shadow:20px 20px 50px 15px grey; 
+text-align:center ;
+color:brown;
+}
+p{
+    text-indent:18px;
+    font-size:19px;
+    padding-left:4px;
+    
+}
+span{
+    font-family:'UnifrakturCook', cursive;;
+}
+.harry{
+ width:100%;
+ height:100vh; 
+ background-size:cover;
+ background-position:center; 
+    background-image:url("https://i.gifer.com/8IuC.gif");
+ background-attachment: fixed;
+ font-family: 'Oleo Script', cursive;
+ color:#7CFC00;
+ text-shadow:2px 3px 4px grey;
+}
+ .rotate {
+ position:relative;
+ height:200px;
+ width:300px;
+ background:#ffffff00;
+ margin:50px auto;
+ transform:skewY(-5deg);
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ overflow:hidden;
+ }
+ .rotate::before{
+  content:'';
+  position:absolute;
+  width:100%;
+  background: #ffffff00;
+  height:55px;
+  left:0;
+  bottom:-27px;
+  transform:skewY(10deg);
+  border:none;
+ } 
+ div iframe {
+  transform:scaleY(5deg);
+ }
+.hermione{
+    color:#00FFFF;
+}
+.flower{
+ width:100%;
+ height:100vh; 
+ background-size:cover;
+ background-position:center; 
+ background-image: url("https://i.gifer.com/V1j.gif");
+ background-attachment: fixed;
+ font-family: 'Oleo Script', cursive;
+ color:#FFFAFA;
+ text-shadow:2px 3px 4px grey;
+}
+h5{
+    font-size:30px;
+    font-family:'Oleo Script', cursive;
+    
+}
+.ron{
+    color:#7CFC00;
+    font-weight:200;
+}
+.final{
+    font-size:28px;
+    color:#00fdff;
+}
+#last{
+    font-size:32;
+    font-family: 'Pinyon Script', cursive;
+    color:#ff067d;
+    
+}
+.link{
+    text-decoration:none;
+    color:#06ff95;
+    font-size:23px;
+    font-family: 'Pinyon Script', cursive;
+    
+}
+label{
+    font-family:'Pinyon Script', cursive;
+    font-weight:800;
+    color:green;
+}
+.intro{
+    color:green;
+    text-shadow:2px 3px 4px grey;
+    text-indent:25px;
+    background-color:#ffffff00;
+}
+.profile{
+    background-color:#ffffff00;
+}
+.friend{
+    background-image:url("https://i.gifer.com/nUd.gif");
+    width:100%;
+ height:100vh; 
+ background-size:cover;
+ background-position:center; 
+ background-attachment: fixed;
+ font-family: 'Oleo Script', cursive;
+ color:#FFFAFA;
+ font-size:20px;
+ text-shadow:2px 3px 5px #00FF00, -2px -3px 5px #0000FF, 3px 2px 4px #F5D5D3, -3px -2px 4px grey, 2px -3px 4px green, -2px 3px 4px white, 3px -2px 4px pink, -3px 2px 4px yellow;
+ max-width:auto ;
+ max-height:auto ;
+ text-align:center ;
+ vertical-align:middle ;
+ border:none;
+ border-radius:10px;
+ box-shadow:4px 3px 4px grey;
+}
+legend{
+    color:#ccff00;
+    
+}
+.blind{
+         box-shadow: 10px 10px 5px #ccc;
+      -moz-box-shadow: 10px 10px 5px #ccc;
+      -webkit-box-shadow: 10px 10px 5px #ccc;
+      -khtml-box-shadow: 10px 10px 5px #ccc;
+      border-radius:5px;
+}
+.img{
+    border:2px solid red;
+    border-radius:7px;
+    box-shadow:3px 4px 10px grey, 3px -4px 10px blue, -3px 4px 10px green, -3px -4px 10px pink;
+}
+.birth{
+    background-image:url("https://i.gifer.com/2yqT.gif");
+    background-attachment:fixed ;
+    height:720;
+    width:360;
+}
+ 
